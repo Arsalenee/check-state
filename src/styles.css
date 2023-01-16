@@ -1,0 +1,19 @@
+.image {
+    width: 200px;
+    box-shadow: 10px 10px 5px #888888;
+}
+.background {
+    background-image: url("https://thumbs.dreamstime.com/b/vintage-background-old-paper-5047816.jpg");
+  height: 20vh;
+  width: 100vw;
+  overflow: hidden;
+  display: flex;
+  justify-content: space-around;
+}
+.para {
+    color: aqua;
+}
+.parag {
+    color: beige;
+    
+}
